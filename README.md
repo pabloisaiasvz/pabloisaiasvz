@@ -27,6 +27,7 @@ Feel free to reach out if you'd like to collaborate or discuss tech opportunitie
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/velazquezpablo)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pabloisaiasvz@gmail.com)
+Email: pabloisaiasvz@gmail.com
 
 ## 
 ![Snake animation](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
