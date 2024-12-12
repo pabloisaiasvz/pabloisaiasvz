@@ -16,7 +16,7 @@ Senior Computer Engineering student and .NET Developer working on enterprise-lev
 - CI/CD pipelines
 - Cloud Architecture
 
-## 🎮 Gaming Background
+## 🎮 Fun Fact
 Professional Quake player with international competitive experience:
 - World Championship (QuakeCon) competitor
 - 2x South American Champion
@@ -25,10 +25,9 @@ Professional Quake player with international competitive experience:
 ## 🌐 Let's Connect!
 Feel free to reach out if you'd like to collaborate or discuss tech opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/velazquezpablo)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/yuptf)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/velazquezpablo)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pabloisaiasvz@gmail.com)
 
-## 🐍
+## 
 ![Snake animation](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=pabloisaiasvz&color=brightgreen)
