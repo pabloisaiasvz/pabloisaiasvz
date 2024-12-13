@@ -28,7 +28,7 @@ Feel free to reach out if you'd like to collaborate or discuss tech opportunitie
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/velazquezpablo)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pabloisaiasvz@gmail.com)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/yuptf)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/139458451842531328)
 
 pabloisaiasvz@gmail.com
   ## ⚡ Currently playing
