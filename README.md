@@ -22,6 +22,7 @@ Professional Quake player with international competitive experience:
 - 2x South American Champion
 - Representing South America in global tournaments
 
+
 ## 🌐 Let's Connect!
 Feel free to reach out if you'd like to collaborate or discuss tech opportunities!
 
@@ -30,6 +31,9 @@ Feel free to reach out if you'd like to collaborate or discuss tech opportunitie
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/yuptf)
 
 pabloisaiasvz@gmail.com
+  ## ⚡ Currently playing
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/139458451842531328?theme=)](https://discord.com/users/139458451842531328)
 
 ## 
 ![Snake animation](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
