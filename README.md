@@ -1,4 +1,4 @@
-# Heyo! 👋 I'm Pablo
+# Heyo! I'm Pablo
 Senior Computer Engineering student and .NET Developer working on enterprise-level applications across real estate, e-commerce, and gaming industries.
 
 ## 🚀 About Me
