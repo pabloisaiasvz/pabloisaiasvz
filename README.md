@@ -33,7 +33,7 @@ Feel free to reach out if you'd like to collaborate or discuss tech opportunitie
 pabloisaiasvz@gmail.com
   ## ⚡ Currently playing
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/139458451842531328?theme=)](https://discord.com/users/139458451842531328)
+[![Discord Presence](https://lanyard.cnrad.dev/api/139458451842531328?idleMessage=Chilling%20%F0%9F%8F%96%EF%B8%8F%20%7C%20Be%20right%20back)](https://discord.com/users/139458451842531328)
 
 ## 
 ![Snake animation](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
