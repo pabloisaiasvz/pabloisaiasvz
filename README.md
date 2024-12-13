@@ -11,7 +11,7 @@ Senior Computer Engineering student and .NET Developer working on enterprise-lev
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,postgresql,git,azure,docker,kubernetes,linux,arduino,autocad,bitbucket,cpp,css,html,discord,docker,django,fastapi,figma,gcp,gmail,jquery,postman,py,sqlite,vite)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
-[![Learning](https://skillicons.dev/icons?i=aws,gcp,terraform)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,gcp,azure,terraform)](https://skillicons.dev)
 - Infrastructure as Code
 - CI/CD pipelines
 - Cloud Architecture
