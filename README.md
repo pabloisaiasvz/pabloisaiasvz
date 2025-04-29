@@ -16,7 +16,7 @@ Senior Computer Engineering student and .NET Developer working on enterprise-lev
 - CI/CD pipelines
 - Cloud Architecture
 
-## 🎮 Fun Fact
+## 🎮 Esports Career
 Professional Quake player with international competitive experience:
 - World Championship (QuakeCon) competitor
 - 2x South American Champion
@@ -30,7 +30,7 @@ Feel free to reach out if you'd like to collaborate or discuss tech opportunitie
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pabloisaiasvz@gmail.com)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/139458451842531328)
 
-pabloisaiasvz@gmail.com
+pablovelazquez.it@gmail.com
   ## ⚡ Currently playing
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/139458451842531328?idleMessage=Chilling%20%F0%9F%8F%96%EF%B8%8F%20%7C%20Be%20right%20back)](https://discord.com/users/139458451842531328)
