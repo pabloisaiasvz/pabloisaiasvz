@@ -17,10 +17,10 @@ Senior Computer Engineering student and .NET Developer working on enterprise-lev
 - Cloud Architecture
 
 ## 🎮 Esports Career
-Professional Quake player with international competitive experience:
-- World Championship (QuakeCon) competitor
-- 2x South American Champion
-- Representing South America in global tournaments
+Former professional Quake player with global tournament experience:  
+- 2× South American Champion  
+- Competitor at QuakeCon (World Championship)  
+- Represented South America internationally
 
 
 ## 🌐 Let's Connect!
