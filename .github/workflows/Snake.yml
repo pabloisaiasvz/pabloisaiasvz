@@ -1,0 +1,30 @@
+name: Generate Snake SVG
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Create output directory
+        run: mkdir -p dist
+
+      - name: Generate GitHub Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user: pabloisaiasvz
+
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
