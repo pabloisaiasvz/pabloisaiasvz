@@ -18,10 +18,8 @@ jobs:
       - name: Generate GitHub Snake SVG
         uses: Platane/snk@v3
         with:
-          # Usar el propietario del repositorio como nombre de usuario para leer el gráfico de contribuciones
           pabloisaiasvz: ${{ github.repository_owner }}
 
-          # Lista de archivos a generar
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
