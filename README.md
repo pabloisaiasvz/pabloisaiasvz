@@ -27,7 +27,7 @@ Professional Quake player with international competitive experience:
 Feel free to reach out if you'd like to collaborate or discuss tech opportunities!
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/velazquezpablo)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pabloisaiasvz@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pablovelazquez.it@gmail.com)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/139458451842531328)
 
 pablovelazquez.it@gmail.com
